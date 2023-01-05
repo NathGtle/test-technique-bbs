@@ -1,0 +1,24 @@
+{
+  "translation": {
+    "title": " Les planètes du système solaire",
+    "filterTitle": "Rechercher une planète :"
+  },
+  "planetDetail": {
+    "title": "Détails de {{planetName}}",
+    "semimajorAxis": "Demi-grand axe",
+    "perihelion": "Périhélie",
+    "aphelion": "Aphélie",
+    "eccentricity": "Excentricité",
+    "inclination": "Inclinaison",
+    "meanRadius": "Rayon moyen",
+    "flattening": "Aplatissement",
+    "mass": "Masse",
+    "volume": "Volume",
+    "density": "Densité",
+    "gravity": "Gravité",
+    "avgTemp": "Température moyenne",
+    "englishName": "Nom anglais",
+    "lunes": "Lunes",
+    "backToHome": "Retour à la liste"
+  }
+}
